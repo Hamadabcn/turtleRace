@@ -8,7 +8,7 @@ This is a simple Turtle Racing game created using Python's turtle module. In thi
 3. The race progresses with each turtle moving randomly, making the outcome unpredictable and exciting.
 
 # Prerequisites:
-1. Python: You need to have Python installed on your machine. You can download it here.
+1. Python: You need to have Python installed on your machine. You can download it here: https://www.python.org/downloads/
 2. Turtle Module: The turtle module comes pre-installed with Python, so no additional libraries are needed.
 
 # How to Play:
