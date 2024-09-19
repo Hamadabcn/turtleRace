@@ -14,7 +14,7 @@ This is a simple Turtle Racing game created using Python's turtle module. In thi
 # How to Play:
 1. Clone/Download the repository to your local machine: https://github.com/Hamadabcn/turtleRace.git
 2. Open a terminal in the project directory.
-3. Run the game using: py main.py
+3. Run the game using: python main.py
 4. The game will prompt you to enter the number of racers (between 2 and 10).
 5. The race will begin, and the turtles will start moving.
 6. The winner will be displayed once the race is over.
